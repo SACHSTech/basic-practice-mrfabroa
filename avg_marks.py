@@ -5,7 +5,7 @@ Purpose:	Compute the average of 4 marks and output to the user
 
 Author:	Fabroa.E
 
-Created:	date in 02/12/2020
+Created:	date in 03/12/2020
 ------------------------------------------------------------------------------
 '''
 
